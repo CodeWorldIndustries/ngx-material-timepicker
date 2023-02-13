@@ -22,10 +22,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/Agranom/ngx-material-timepicker.git"
+        "url": "https://github.com/CodeWorldIndustries/ngx-material-timepicker.git"
     },
     "bugs": {
-        "url": "https://github.com/Agranom/ngx-material-timepicker/issues"
+        "url": "https://github.com/CodeWorldIndustries/ngx-material-timepicker/issues"
     },
     "scripts": {
         "ng": "ng",

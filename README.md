@@ -1,14 +1,14 @@
 # Angular Material Timepicker
 
-[![Build Status](https://travis-ci.org/Agranom/ngx-material-timepicker.svg?branch=master)](https://travis-ci.org/Agranom/ngx-material-timepicker)
-[![codecov](https://codecov.io/gh/Agranom/ngx-material-timepicker/branch/master/graph/badge.svg)](https://codecov.io/gh/Agranom/ngx-material-timepicker)
+[![Build Status](https://travis-ci.org/CodeWorldIndustries/ngx-material-timepicker.svg?branch=master)](https://travis-ci.org/CodeWorldIndustries/ngx-material-timepicker)
+[![codecov](https://codecov.io/gh/CodeWorldIndustries/ngx-material-timepicker/branch/master/graph/badge.svg)](https://codecov.io/gh/CodeWorldIndustries/ngx-material-timepicker)
 [![npm version](https://badge.fury.io/js/ngx-material-timepicker.svg)](https://badge.fury.io/js/ngx-material-timepicker)
 
 Handy multifunctional [material design](https://material.io/guidelines/components/pickers.html#pickers-time-pickers) timepicker for Angular 6.0+
 
 ## Demo
 
-https://agranom.github.io/ngx-material-timepicker/
+https://CodeWorldIndustries.github.io/ngx-material-timepicker/
 
 ## Table of contents
 * [Getting started](#getting-started)
